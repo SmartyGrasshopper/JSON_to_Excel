@@ -1,0 +1,13 @@
+File containing the author details.
+Purpose of this file is to allow referencing the authors' details
+in the program files with '@author<number>'.
+This benefits the author to change/update details at one place only
+(instead of changing at every place).
+
+@author1
+    Details -
+        1. Name : Abhijeet Verma
+
+@author2
+    Details -
+    <Add here in a similar way if more authors present>
