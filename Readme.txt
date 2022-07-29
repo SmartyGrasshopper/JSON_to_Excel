@@ -7,3 +7,5 @@ Install using the following command (with internet available) -
 
 Use the main.py file to run the program.
 And you should be under the parent folder (JSON_TO_EXCEL folder) while running it.
+
+LICENCE: GPLv3
